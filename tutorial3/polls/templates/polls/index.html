@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<ul>
+
+{% for i in latest_question_list %}
+    <li><a href="{% url 'detail' i.id  %}" >  {{ i.question_text}}  {{i.pub_date}} </a> </li>
+{% endfor %}
+
+</ul>
+
+</body>
+
+</html>
