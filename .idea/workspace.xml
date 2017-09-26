@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed4f5df3-b336-4b34-b701-38cf915db82d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial3/db.sqlite3" afterPath="$PROJECT_DIR$/tutorial3/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial3/polls/urls.py" afterPath="$PROJECT_DIR$/tutorial3/polls/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorial3/polls/views.py" afterPath="$PROJECT_DIR$/tutorial3/polls/views.py" />
-    </list>
+    <list default="true" id="ed4f5df3-b336-4b34-b701-38cf915db82d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +14,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial3/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-335">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="325">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -88,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -238,7 +233,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10371179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -485,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial3/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="325">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
